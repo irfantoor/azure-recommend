@@ -22,3 +22,5 @@
 3. Un __support de présentation__ (PowerPoint ou équivalent, sauvegardé au format pdf, 15 à 25 slides), contenant une brève description fonctionnelle de l’application, une présentation des différents modèles analysés et de leurs avantages et inconvénients, un schéma de l’architecture retenue, une présentation du système de recommandation utilisé et un schéma de l’architecture cible permettant de prendre en compte la création de nouveaux utilisateurs et de nouveaux articles.
 
 - Ce livrable vous permettra de présenter votre travail à votre CEO.
+
+__NOTE : Ce répositorie ne contien pas le repertoire "recommend/data", c'est creer est rempli pas des azure-scripts__
